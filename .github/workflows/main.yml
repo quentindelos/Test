@@ -21,7 +21,7 @@ jobs:
         protocol: ftp
         port: 21
         local-dir: ./
-        server-dir: /home/fastfoq/soulmade/
+        server-dir: soulmade/
         exclude: |
           **/.git*
           **/.github*
